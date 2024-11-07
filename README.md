@@ -1,14 +1,14 @@
-# Proyecto-_Restaurante
-----------
+# Restaurante_ETITC 
+------
 
-## Objetivo
+## Objetivo 
 
-## General
+## General 
 
 ### Auxiliares
 
-##  Plantamiento
+## Planteamiento 
 
-## Justificación
+## Justificaion 
 
-## Referencias
+## Referencias 
