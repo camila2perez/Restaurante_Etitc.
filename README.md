@@ -28,22 +28,59 @@ de informes.
 
 ## Planteamiento 
 
+### analisis
+
+
+
 ## Justificaion 
 
-La implementación de una plataforma digital para la gestión de servicios de alimentación en una universidad representa una solución innovadora y eficiente a una serie de desafíos actuales.
+Mejora de la experiencia del usuario: 
 
-Mejora de la experiencia del usuario: La plataforma permitirá a los estudiantes realizar pedidos de forma rápida y sencilla, personalizar sus comidas y acceder a información detallada sobre los productos ofrecidos, lo que se traducirá en una mayor satisfacción y fidelización.
-Optimización de procesos: La automatización de tareas como la toma de pedidos, la gestión de inventario y la generación de informes permitirá reducir tiempos de espera, minimizar errores y aumentar la eficiencia operativa del servicio de alimentación.
-Toma de decisiones basada en datos: La plataforma generará una gran cantidad de datos que podrán ser analizados para identificar tendencias de consumo, preferencias de los usuarios y optimizar la oferta gastronómica. Esto permitirá ajustar el menú a las necesidades reales de la comunidad universitaria y reducir el desperdicio de alimentos.
-Promoción de hábitos alimenticios saludables: La plataforma puede incluir funcionalidades que promuevan la elección de opciones saludables, como la inclusión de información nutricional detallada de cada producto o la creación de menús equilibrados.
-Mayor flexibilidad y escalabilidad: La plataforma permitirá ofrecer servicios más flexibles, como la posibilidad de realizar pedidos con anticipación, personalizar los menús para grupos específicos (por ejemplo, estudiantes con restricciones alimentarias) y expandir los servicios a nuevas ubicaciones.
-Reducción del impacto ambiental: Al optimizar la gestión de inventario y reducir el desperdicio de alimentos, la plataforma contribuirá a disminuir el impacto ambiental de las operaciones del servicio de alimentación.
-En resumen, la implementación de esta plataforma representa una inversión en el futuro de la universidad, ya que permitirá:
+•	La plataforma permitirá a los estudiantes realizar pedidos de forma rápida y sencilla, personalizar sus comidas y acceder a información detallada sobre los productos ofrecidos, lo que se traducirá en una mayor satisfacción y fidelización.
 
-Mejorar la calidad de vida de los estudiantes: Al ofrecer una experiencia de alimentación más satisfactoria y saludable.
-Aumentar la eficiencia operativa: Al optimizar los procesos y reducir costos.
-Fortalecer la imagen de la universidad: Al posicionarse como una institución innovadora y comprometida con el bienestar de su comunidad.
-Generar datos valiosos: Que podrán ser utilizados para tomar decisiones estratégicas y mejorar continuamente el servicio.
-Al enfocarse en los beneficios cualitativos y a largo plazo, esta justificación resulta convincente sin necesidad de detallar costos específicos. Los beneficios mencionados pueden ser cuantificados y demostrados a través de indicadores clave de desempeño (KPI) una vez que la plataforma esté en funcionamiento.
+Optimización de procesos: 
+
+•	La automatización de tareas como la toma de pedidos, la gestión de inventario y la generación de informes permitirá reducir tiempos de espera, minimizar errores y aumentar la eficiencia operativa del servicio de alimentación.
+
+Toma de decisiones basada en datos: 
+
+•	La plataforma generará una gran cantidad de datos que podrán ser analizados para identificar tendencias de consumo, preferencias de los usuarios y optimizar la oferta gastronómica. Esto permitirá ajustar el menú a las necesidades reales de la comunidad universitaria y reducir el desperdicio de alimentos.
+
+Promoción de hábitos alimenticios saludables:
+
+•	La plataforma puede incluir funcionalidades que promuevan la elección de opciones saludables, como la inclusión de información nutricional detallada de cada producto o la creación de menús equilibrados.
+
+Mayor flexibilidad y escalabilidad: 
+
+•	La plataforma permitirá ofrecer servicios más flexibles, como la posibilidad de realizar pedidos con anticipación, personalizar los menús para grupos específicos (por ejemplo, estudiantes con restricciones alimentarias) y 
+expandir los servicios a nuevas ubicaciones.
+
+Reducción del impacto ambiental:
+
+•	Al optimizar la gestión de inventario y reducir el desperdicio de alimentos, la plataforma contribuirá a disminuir el impacto ambiental de las operaciones del servicio de alimentación.
+
+
+En resumen, la implementación de esta plataforma nos representara:
+
+Mejorar la calidad de vida de los estudiantes: 
+
+•	Al ofrecer una experiencia de alimentación más satisfactoria y saludable.
+
+Aumentar la eficiencia operativa: 
+
+•	Al optimizar los procesos y reducir costos.
+
+Fortalecer la imagen de la universidad: 
+
+•	Al posicionarse como una institución innovadora y comprometida con el 
+bienestar de su comunidad.
+
+Generar datos valiosos: 
+•	Que podrán ser utilizados para tomar decisiones estratégicas y mejorar continuamente el servicio.
+
+Al enfocarse en los beneficios cualitativos y a largo plazo, esta justificación resulta convincente sin necesidad de detallar específicos sino mas de manera puntual. 
+
+Los beneficios mencionados pueden ser cuantificados y demostrados a través de indicadores clave de desempeño (KPI) una vez que la plataforma esté en funcionamiento.
+
 
 ## Referencias 
