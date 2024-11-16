@@ -35,4 +35,4 @@ Interpretación:
 Este diagrama simplificado muestra un flujo básico de cómo un estudiante realiza un pedido en una cafetería y cómo el sistema lo gestiona. Representa una interacción típica entre un usuario y un sistema, donde el usuario inicia una acción y el sistema responde de manera secuencial.
 
 ### imagen
-
+![Descripción de la imagen](https://www.planttext.com/api/plantuml/png/RP5D2i8m44RtWTnXw4eNNg0BiGGHLnPlC3OZ1EAavCU5ftVQg1LnENcFRpuckvGnvdBpMk6GGuHzoiKwv4nQZOBSu4QPe35ufKpHOGEOmFpGdgopOKRz3-hyhL1yLDXffTMo0pPRC2sOI1YXPcXbfjU-XIDBEHwS82vq3p2-X7uIbf0MkXHcZRxAprAtC7pLMF8F1QCLKcE16BoJZV_w1Kx5vxe1nRNaFstUSQTB9gQ_YdIfGMUI6pE-dPNSZQqZsTIijTh9C7-5Lay0)
