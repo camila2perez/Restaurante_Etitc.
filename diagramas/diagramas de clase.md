@@ -1,4 +1,4 @@
-# diagrama de caso de uso
+# diagrama de clases
 ------
 
 ## proceso
