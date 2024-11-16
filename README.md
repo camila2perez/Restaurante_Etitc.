@@ -1,6 +1,12 @@
 # Restaurante_ETITC 
 ------
 
+## Introduccion 
+
+Nuestro proyecto busca transformar la manera en que se gestiona la entrega de almuerzos semanales en una universidad mediante un sistema de software innovador, eficiente y atractivo. La plataforma permitirá a los estudiantes realizar pedidos personalizados según sus preferencias alimenticias, gestionar pagos y recibir notificaciones en tiempo real sobre el estado de su comida.
+
+Desde el lado administrativo, el sistema optimizará la logística, permitiendo una mejor planificación, control de inventarios y análisis de datos para ajustar el servicio a la demanda real. Además, se priorizará la sostenibilidad, reduciendo desperdicios y mejorando la experiencia general de todos los involucrados. Este proyecto combina tecnología y diseño para simplificar procesos y crear un impacto positivo en la comunidad universitaria.
+
 ## Objetivo 
 
 ### General 
@@ -26,59 +32,13 @@ de informes.
 
 •	Desarrollar una interfaz intuitiva y fácil de usar para la aplicación móvil
 
-## Planteamiento 
 
-### analisis
 
-El sistema busca mejorar la gestión de almuerzos para estudiantes, proporcionando control de acceso, monitoreo de asistencia, y generación de informes y estadísticas en esto se tine mas encuenta lo  de manera mas especifica:
+## conclusion
 
-•	Control de Acceso: Asegurar que cada estudiante reciba el almuerzo diario autorizado.
+El diseño del sistema de registro de almuerzos para un restaurante universitario se basa en una solución escalable y funcional, aplicando patrones de diseño que garantizan modularidad, flexibilidad y eficiencia. El sistema tiene como objetivos principales: controlar el acceso de los estudiantes al almuerzo diario, automatizar la asistencia, generar reportes detallados y ofrecer transparencia mediante un historial accesible de consumos.
 
-•	Monitoreo Automático: Registrar automáticamente la asistencia de los estudiantes al servicio de almuerzos.
-
-•	Trazabilidad y Transparencia: Proveer un historial de consumo de almuerzos que permita supervisar y dar seguimiento a cada estudiante.
-
-•	Generación de Reportes y Estadísticas: Crear informes detallados del consumo de almuerzos y estadísticas sobre la demanda.
-
-para dar mas detlalle de los procedimientos en Los patrones creacionales permiten instanciar objetos de manera controlada, optimizando los recursos y facilitando la extensibilidad.
-
-•	en el sistema de almuerzos, el patrón Singleton se utilizaría en clases como ConexionBaseDatospara que exista solo una conexión compartida por todo el sistema.
-
-• ReporteFactory podría determinar el tipo de informe (diario, semanal, mensual) en función de los requerimientos del usuario, devolviendo instancias de clases específicas 
-
-• Un ReporteBuilderpodría ensamblar informes complejos con diferentes componentes, permitiendo a los administradores seleccionar el nivel de detalle en los informes generados.
-
-• con mayor parte al diseño del sistema se puede tomar en cuenta 
-1. Autenticación y acceso :
-
-•	Usar Proxypara restringir el acceso a funciones de informes y datos sensibles.
-
-•	Usar Adapterpara integrar sistemas de acceso externos, como tarjetas o biometría.
-
-•	Implementar Chain of Responsibilitypara verificar las credenciales y registrar la asistencia de cada estudiante.
-
-2. Registro y Notificación de Asistencia :
-
-•	La clase ServicioAlmuerzoFacade proporciona una interfaz simplificada para gestionar el acceso y notificación de asistencia.
-
-•	Implementar Observerpara que los estudiantes suscritos reciban notificaciones automáticas cuando se actualice el menú o se generen informes de consumo.
-
-3.  Generación de Reportes :
-
-•	ReporteFactoryselecciona y genera el tipo de informe deseado (diario, semanal o mensual).
-
-•	ReporteBuildercomponer el informe con diferentes secciones según lo solicitado por el administrador.
-
-•	Strategyse emplea para aplicar diferentes métodos de análisis estadístico según el periodo.
-
-4.  Visualización del Historial :
-
-•	Usar Compositepara agrupar múltiples elementos de datos en un solo informe unificado.
-
-•	Stategestiona el estado de los usuarios en función de su acceso y permite cambiar el flujo según las condiciones.
-
-### conclusion
-
+Este enfoque asegura un sistema funcional, escalable y adaptable a las necesidades del restaurante, facilitando su evolución con funcionalidades adicionales en el futuro.
 
 
 
@@ -89,3 +49,11 @@ La implementación de esta plataforma revolucionará nuestro servicio de aliment
 
 
 ## Referencias 
+
+Google AI. (Actualizado el [fecha de actualización]). Bard
+
+OpenAI. (Fecha de publicación). Introducing ChatGPT. 
+
+Campos Murcia, E., Mora Gómez, D. J., & Melgar, A. de. (2019). Software de gestión de productos en el restaurante (Trabajo de grado). Corporación Universitaria Minuto de Dios, Girardot.
+
+https://www.revfine.com/es/sistemas-de-gestion-de-restaurantes/
