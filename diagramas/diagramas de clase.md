@@ -18,7 +18,13 @@ Este diseño permite que la Cafeteria actúe como un controlador centralizado qu
 
 ya de manera mas centrada mas al proyecto
 
+
+### imagen
+
+
 ![image](https://github.com/user-attachments/assets/d4db8f58-c062-4fdc-85b3-f85ca980fab5)
+
+## proceso
 
 El diagrama representa el diseño de clases para el sistema de Registro de Almuerzos , destacando las relaciones entre las clases Estudiante , SistemaAlmuerzos , y RegistroAlmuerzosApp . Aquí tienes un resumen:
 
