@@ -52,3 +52,37 @@ Opciones adicionales: Se podrían agregar opciones como "para llevar" o "consumi
 ### imagen
 
 ![Descripción de la imagen](https://www.planttext.com/api/plantuml/png/PP0nRW9134NxbVOEBfShG0D24Q9D97hBumLBPWPvF0rtuXIvMBmhI81CDRAV_V_tkZgQjxFstVphk-KNAnD9oMY0UcvirxAQwaM5922uS99K044H24TsjkyR1YCZ30TKIG4bz58XiTxn1VY9CmpROiOKlKNVGRpb9n-bkiN8BxkwjxR6KPOSrZ89Fcrx4Bk6bluiXO36iiaBQsKOzfd-wz49hszod9EC4V8Zk_7nAQC2Lsz9C3jFLzYGjqWupuTG82-cgfTBtwrZtNpJ7m00)
+
+ya de manera mas centrada mas al proyecto
+
+
+### imagen
+
+![image](https://github.com/user-attachments/assets/6a35377a-5894-4d8d-bce9-65cffb22266f)
+
+
+## proceso
+
+Este programa te muestra un menú con cuatro opciones:
+
+Agregar un estudiante nuevo: Si quieres incluir a un alumno nuevo, eliges esta opción y el programa te pedirá su nombre y número de identificación.
+
+Registrar la asistencia de un estudiante: Cuando quieras registrar que un alumno estuvo presente en clase, seleccionas esta opción y el programa te pedirá su número de identificación y la fecha de la clase.
+
+Ver el historial de asistencia de un estudiante: Si quieres saber cómo ha asistido un alumno, eliges esta opción y el programa te mostrará un resumen de sus faltas y asistencias.
+
+Salir del programa: Cuando termines de usar el programa, seleccionas esta opción y el programa se cerrará.
+
+Cómo funciona el programa
+
+Menú principal: Al iniciar el programa, siempre verás el menú con las cuatro opciones.
+
+Selección de opción: Tú eliges la opción que necesitas en ese momento.
+
+Procesamiento: El programa realiza la acción que corresponde a la opción que elegiste entre agregar estudiante, registrar asistencia, ver historial o salir.
+
+Repetición: Después de realizar una acción, el programa vuelve a mostrarte el menú para que puedas elegir otra opción o salir.
+
+En resumen:
+
+Este diagrama de flujo representa un programa sencillo que te ayuda a gestionar la asistencia de tus estudiantes de forma ordenada.
